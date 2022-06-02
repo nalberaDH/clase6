@@ -28,4 +28,4 @@
 // console.log(nuevo);
 array.forEach((el,index)=>{
     console.log("Elemento: "+el+" indice "+index);
-})
+});
